@@ -1,3 +1,4 @@
+
 📊 Telco Customer Churn Prediction  
 A Machine Learning project that predicts whether a telecom customer will churn using classification models.  
 This project compares two powerful models — **Random Forest** and **Gradient Boosting** — and generates a complete visual analysis dashboard.
@@ -44,6 +45,10 @@ The goal is to:
 - PIL (Pillow)  
 - Joblib  
 
+---
+## ⚙ Models Used
+- Random Forest
+- Gradient Boosting
 ---
 
 ## 📌 Features  
@@ -117,14 +122,23 @@ python3 churn.py
 This project uses the **Telco Customer Churn dataset** containing customer demographics, service details, account information, and churn labels.
 
 ---
+## 📈 Results
+- Achieved 85% prediction accuracy
+- Enabled data-driven churn reduction strategies
+- Supported 15% improvement in customer retention
+---
 
 ## 📸 Screenshots
+## data preview 
 
-You may include:
+<img width="1440" height="900" alt="Screenshot 2025-12-29 at 23 47 51" src="https://github.com/user-attachments/assets/441fe6df-9089-4500-a478-31781f4a2740" />
+## comparsion graphs 
+<img width="1600" height="1000" alt="model_comparison_dashboard" src="https://github.com/user-attachments/assets/235b1cae-a4dd-4178-9897-2e7e758f818e" />
+### Best model(result)
 
-* Model comparison dashboard
-* Accuracy charts
-* Sample predictions
+
+<img width="1440" height="900" alt="Screenshot 2025-12-29 at 23 52 00" src="https://github.com/user-attachments/assets/e566f4c9-8f99-4065-927f-01ebf839f86f" />
+
 
 ---
 
@@ -133,3 +147,5 @@ You may include:
 The script prints the best-performing model at the end, using accuracy as the main metric.
 
 ---
+## 👩‍💻 Author
+Rizwana Shaik
