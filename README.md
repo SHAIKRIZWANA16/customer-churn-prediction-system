@@ -1,3 +1,7 @@
+![GitHub Repo Size](https://img.shields.io/github/repo-size/SHAIKRIZWANA16/customer-churn-prediction-system)
+![GitHub Stars](https://img.shields.io/github/stars/SHAIKRIZWANA16/customer-churn-prediction-system)
+![GitHub Forks](https://img.shields.io/github/forks/SHAIKRIZWANA16/customer-churn-prediction-system)
+![Last Commit](https://img.shields.io/github/last-commit/SHAIKRIZWANA16/customer-churn-prediction-system)
 
 📊 Telco Customer Churn Prediction  
 A Machine Learning project that predicts whether a telecom customer will churn using classification models.  
