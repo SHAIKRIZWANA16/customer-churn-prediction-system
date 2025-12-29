@@ -129,11 +129,14 @@ This project uses the **Telco Customer Churn dataset** containing customer demog
 ---
 
 ## 📸 Screenshots
-## data preview 
+### data preview 
 
 <img width="1440" height="900" alt="Screenshot 2025-12-29 at 23 47 51" src="https://github.com/user-attachments/assets/441fe6df-9089-4500-a478-31781f4a2740" />
-## comparsion graphs 
+
+### comparsion graphs 
+
 <img width="1600" height="1000" alt="model_comparison_dashboard" src="https://github.com/user-attachments/assets/235b1cae-a4dd-4178-9897-2e7e758f818e" />
+
 ### Best model(result)
 
 
